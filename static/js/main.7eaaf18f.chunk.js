@@ -1,0 +1,2 @@
+(this.webpackJsonpreact_responsive_landing_page=this.webpackJsonpreact_responsive_landing_page||[]).push([[0],{3:function(e,n,t){e.exports=t(8)},8:function(e,n,t){"use strict";t.r(n);var a=t(0),r=t.n(a),l=t(2);var c=function(){return r.a.createElement("div",null,r.a.createElement("h1",null,"Hello"))};t.n(l).a.render(r.a.createElement(c,null),document.getElementById("root"))}},[[3,1,2]]]);
+//# sourceMappingURL=main.7eaaf18f.chunk.js.map
